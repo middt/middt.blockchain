@@ -1,0 +1,15 @@
+/Users/mt/Projects/middt.blockchain/middt.blockchain/bin/Debug/net7.0/middt.blockchain
+/Users/mt/Projects/middt.blockchain/middt.blockchain/bin/Debug/net7.0/middt.blockchain.deps.json
+/Users/mt/Projects/middt.blockchain/middt.blockchain/bin/Debug/net7.0/middt.blockchain.runtimeconfig.json
+/Users/mt/Projects/middt.blockchain/middt.blockchain/bin/Debug/net7.0/middt.blockchain.dll
+/Users/mt/Projects/middt.blockchain/middt.blockchain/bin/Debug/net7.0/middt.blockchain.pdb
+/Users/mt/Projects/middt.blockchain/middt.blockchain/obj/Debug/net7.0/middt.blockchain.csproj.AssemblyReference.cache
+/Users/mt/Projects/middt.blockchain/middt.blockchain/obj/Debug/net7.0/middt.blockchain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mt/Projects/middt.blockchain/middt.blockchain/obj/Debug/net7.0/middt.blockchain.AssemblyInfoInputs.cache
+/Users/mt/Projects/middt.blockchain/middt.blockchain/obj/Debug/net7.0/middt.blockchain.AssemblyInfo.cs
+/Users/mt/Projects/middt.blockchain/middt.blockchain/obj/Debug/net7.0/middt.blockchain.csproj.CoreCompileInputs.cache
+/Users/mt/Projects/middt.blockchain/middt.blockchain/obj/Debug/net7.0/middt.blockchain.dll
+/Users/mt/Projects/middt.blockchain/middt.blockchain/obj/Debug/net7.0/refint/middt.blockchain.dll
+/Users/mt/Projects/middt.blockchain/middt.blockchain/obj/Debug/net7.0/middt.blockchain.pdb
+/Users/mt/Projects/middt.blockchain/middt.blockchain/obj/Debug/net7.0/middt.blockchain.genruntimeconfig.cache
+/Users/mt/Projects/middt.blockchain/middt.blockchain/obj/Debug/net7.0/ref/middt.blockchain.dll

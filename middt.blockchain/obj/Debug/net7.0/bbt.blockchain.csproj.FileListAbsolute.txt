@@ -1,0 +1,15 @@
+/Users/mt/Projects/bbt.blockchain/bbt.blockchain/bin/Debug/net7.0/bbt.blockchain
+/Users/mt/Projects/bbt.blockchain/bbt.blockchain/bin/Debug/net7.0/bbt.blockchain.deps.json
+/Users/mt/Projects/bbt.blockchain/bbt.blockchain/bin/Debug/net7.0/bbt.blockchain.runtimeconfig.json
+/Users/mt/Projects/bbt.blockchain/bbt.blockchain/bin/Debug/net7.0/bbt.blockchain.dll
+/Users/mt/Projects/bbt.blockchain/bbt.blockchain/bin/Debug/net7.0/bbt.blockchain.pdb
+/Users/mt/Projects/bbt.blockchain/bbt.blockchain/obj/Debug/net7.0/bbt.blockchain.csproj.AssemblyReference.cache
+/Users/mt/Projects/bbt.blockchain/bbt.blockchain/obj/Debug/net7.0/bbt.blockchain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mt/Projects/bbt.blockchain/bbt.blockchain/obj/Debug/net7.0/bbt.blockchain.AssemblyInfoInputs.cache
+/Users/mt/Projects/bbt.blockchain/bbt.blockchain/obj/Debug/net7.0/bbt.blockchain.AssemblyInfo.cs
+/Users/mt/Projects/bbt.blockchain/bbt.blockchain/obj/Debug/net7.0/bbt.blockchain.csproj.CoreCompileInputs.cache
+/Users/mt/Projects/bbt.blockchain/bbt.blockchain/obj/Debug/net7.0/bbt.blockchain.dll
+/Users/mt/Projects/bbt.blockchain/bbt.blockchain/obj/Debug/net7.0/refint/bbt.blockchain.dll
+/Users/mt/Projects/bbt.blockchain/bbt.blockchain/obj/Debug/net7.0/bbt.blockchain.pdb
+/Users/mt/Projects/bbt.blockchain/bbt.blockchain/obj/Debug/net7.0/bbt.blockchain.genruntimeconfig.cache
+/Users/mt/Projects/bbt.blockchain/bbt.blockchain/obj/Debug/net7.0/ref/bbt.blockchain.dll

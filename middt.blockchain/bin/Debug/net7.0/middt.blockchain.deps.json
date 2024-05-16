@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "middt.blockchain/1.0.0": {
+        "runtime": {
+          "middt.blockchain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "middt.blockchain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
